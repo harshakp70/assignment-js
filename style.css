@@ -1,4 +1,6 @@
-
+*{
+  background-color: aqua;
+}
 #passwordInput{
     width: 30%;
     display: flex;
